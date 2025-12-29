@@ -1,0 +1,10 @@
+# executables
+*.exe
+
+# data & images
+*.csv
+*.png
+
+# python
+__pycache__/
+*.pyc
