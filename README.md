@@ -164,3 +164,5 @@ Data Analysis | Python | Excel | GitHub
 ---
 
 ⭐ If you find this useful, feel free to star the repository!
+![dashboard](https://github.com/user-attachments/assets/b4a48dc5-5d34-434a-bcce-6887aaef30ed)
+
